@@ -23,4 +23,4 @@ jobs:
       with:
         context: .
         push: true
-        tags: yadav-host/minimalwebapi:latest
+        tags: yadavpk/minimalwebapi:latest
